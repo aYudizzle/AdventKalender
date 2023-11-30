@@ -2,6 +2,11 @@
 
 Willkommen zur Adventskalender-App! Diese Android-App ermöglicht es Benutzern, täglich eine festliche Aufgabe aus einem vordefinierten Enum zu öffnen. Die App zeigt nur vergangene oder den aktuellen Dezembertag an (natürlich nur bis Weihnachten). Alle anderen Tage dürfen noch nicht eingesehen werden
 
+## Installation
+
+1. Lade die APK-Datei aus dem [Releases](https://github.com/aYudizzle/AdventKalender/releases/tag/v1.0.0]) Bereich herunter.
+2. Installiere die App auf deinem Android-Gerät.
+
 ## Funktionen
 
 - Anzeige einer festlichen Aufgabe für jeden Tag im Dezember bis Weihnachten.
