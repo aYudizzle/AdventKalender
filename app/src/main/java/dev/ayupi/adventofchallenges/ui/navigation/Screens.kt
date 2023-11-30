@@ -4,6 +4,8 @@ import androidx.navigation.NavController
 
 class Screens(navController: NavController) {
     val details: (Int) -> Unit = {
-        navController.navigate("details/$it")
+        navController.navigate("details/$it") {
+            launchSingleTop = true
+        }
     }
 }
