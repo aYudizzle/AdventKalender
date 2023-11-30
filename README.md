@@ -4,7 +4,7 @@ Willkommen zur Adventskalender-App! Diese Android-App ermöglicht es Benutzern, 
 
 ## Installation
 
-1. Lade die APK-Datei aus dem [Releases](https://github.com/aYudizzle/AdventKalender/releases/tag/v1.0.0]) Bereich herunter.
+1. Lade die APK-Datei aus dem [Releases](https://github.com/aYudizzle/AdventKalender/releases/tag/v1.0.0) Bereich herunter.
 2. Installiere die App auf deinem Android-Gerät.
 
 ## Funktionen
